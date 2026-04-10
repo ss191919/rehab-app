@@ -48,16 +48,16 @@ htmlspecialchars($row["patient"], ENT_QUOTES, 'UTF-8');
 
 ## 🛠 使用技術
 
-・PHP  
+・PHP
 　→ シンプルなCRUD処理を実装し、サーバーサイドの基礎理解のために使用
 
-・MySQL  
+・MySQL
 　→ データの永続化やテーブル設計を学ぶために使用
 
-・Docker  
+・Docker
 　→ 開発環境を簡単に再現できるようにするために使用
 
-・HTML / CSS  
+・HTML / CSS
 　→ シンプルで直感的なUIを実現するために使用
 
 ---
