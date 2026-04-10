@@ -58,6 +58,7 @@ htmlspecialchars($row["patient"], ENT_QUOTES, 'UTF-8');
 
 - HTML / CSS：医療現場での使用を想定し、直感的でシンプルなUIを実現するために使用
 
+
 ---
 
 ## 💡 工夫した点
